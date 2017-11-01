@@ -1,2 +1,2 @@
 This is the Interactive Resume for my profile and this is done using HTML,CSS,Javascript and JQuery
-link - (himanshudamani.github.io)
+[![Build Status](https://himanshudamani.github,io)
